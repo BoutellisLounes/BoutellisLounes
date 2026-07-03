@@ -13,7 +13,11 @@ I am a State Engineering Student in Computer Science at UMMTO, passionate about 
 * **Cisco** - Python Essentials 1 *(In Progress)*
 * **Cisco** - Networking Basics *(In Progress)*
 * **Cisco** - Getting Started with Cisco Packet Tracer *(In progress)*
+
+## 🧱 Projects
+* **GitHub** - NetStruct-CLI *(In Progress)*
+  
 ## 🛠️ Tech Stack & Tools
 * **Languages:** C, Python, Bash
 * **Concepts:** Data Structures (Stacks, Queues, Lists), Dynamic Memory Allocation, Analytical Thinking
-* **Languages spoken:** French (Professional), Arabic (Native), Kabyle (Native), English (Cisco English for IT 1)
+* **Languages spoken:** French (Professional), Arabic (Native-like), Kabyle (Native), English (Cisco English for IT 1)
