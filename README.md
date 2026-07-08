@@ -9,7 +9,8 @@ I am a State Engineering Student in Computer Science at UMMTO, passionate about 
 
 ## 🎓 Certifications & Badges
 * **CSE ESI** - Python Programming Workshop
-* **Cisco** - English for IT 1 *(Credential arriving June 30)*
+* **Cisco Networking Academy & OpenEDG** - English for IT 1 **(https://www.credly.com/badges/0e4a3020-9c56-4e4b-9d06-3a7561591d66/public_url)** - (July 2026)
+  * **Skills:** Technical English, Information Security Policies, Software & Network Engineering Vocabulary, Professional Customer Support.
 * **Cisco** - Python Essentials 1 *(In Progress)*
 * **Cisco** - Networking Basics *(In Progress)*
 * **Cisco** - Getting Started with Cisco Packet Tracer *(In progress)*
