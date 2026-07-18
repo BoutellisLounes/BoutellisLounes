@@ -8,16 +8,27 @@ I am a State Engineering Student in Computer Science at UMMTO, passionate about 
 * 🌐 **Networking:** Mastering infrastructure fundamentals via Cisco's *Networking Basics* pathway.
 
 ## 🎓 Certifications & Badges
-* **CSE ESI** - Python Programming Workshop
-* **Cisco Networking Academy & OpenEDG** - *English for IT 1* (July 2026)  
-  [![English for IT 1](https://img.shields.io/badge/English_for_IT_1-Cisco_&_OpenEDG-049fd9?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/badges/0e4a3020-9c56-4e4b-9d06-3a7561591d66/public_url)
+* ![Workshop](https://img.shields.io/badge/CSE%20ESI-Python%20Programming%20Workshop-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Certificate](https://img.shields.io/badge/Certificate-Earned-brightgreen?style=flat-square)
+  
+## 📚 Cisco Learning
+* * **Cisco Networking Academy & OpenEDG** - *English for IT 1* (July 2026)  
+  [![Cisco](https://img.shields.io/badge/Cisco-English%20for%20IT%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/0e4a3020-9c56-4e4b-9d06-3a7561591d66/public_url)
+  ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
   * **Skills:** Technical English, Information Security Policies, Software & Network Engineering Vocabulary, Professional Customer Support.
-* **Cisco** - Python Essentials 1 *(In Progress)*
-* **Cisco** - Networking Basics *(In Progress)*
-* **Cisco** - Getting Started with Cisco Packet Tracer *(In progress)*
+
+* ![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials%201-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+
+* ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+
+* ![Cisco](https://img.shields.io/badge/Cisco-Getting%20Started%20with%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
 
 ## 🧱 Projects
-* **GitHub** - NetStruct-CLI *(In Progress)*
+* ![Project](https://img.shields.io/badge/Project-NetStruct--CLI-4B5563?style=for-the-badge&logo=gnubash&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
   
 ## 🛠️ Tech Stack & Tools
 * **Languages:** C, Python, Bash
