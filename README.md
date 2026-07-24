@@ -29,6 +29,9 @@ I am a State Engineering Student in Computer Science at UMMTO, passionate about 
 ## 🧱 Projects
 * ![Project](https://img.shields.io/badge/Project-NetStruct--CLI-4B5563?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+
+* ![Project](https://img.shields.io/badge/Project-C--ADS-4B5563?style=for-the-badge&logo=c&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-green?style=flat-square)
   
 ## 🛠️ Tech Stack & Tools
 * **Languages:** C, Python, Bash
