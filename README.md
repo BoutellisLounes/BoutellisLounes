@@ -1,6 +1,6 @@
 # Hi, I'm Lounes 👋
 
-I am a State Engineering Student in Computer Science at UMMTO, passionate about Low-Level Programming, Networking, and Cybersecurity. My background in Physics (from Aix-Marseille and Paris-Saclay University) gives me a unique, analytical approach to solving complex computing problems.
+I am a Second-year Computer Engineering Student at UMMTO, passionate about Low-Level Programming, Networking, and Cybersecurity. My background in Physics (from Aix-Marseille and Paris-Saclay University) gives me a unique, analytical approach to solving complex computing problems.
 
 ## 🚀 What I'm Working On This Summer (2026)
 * 🧠 **Advanced C:** Developing `C-ADS` (Custom implementations of Linked Lists, Stacks, Queues, and dynamic memory allocation from scratch).
