@@ -1,10 +1,10 @@
 # Hi, I'm Lounes 👋
 
-I am a Second-year Computer Engineering Student at UMMTO, passionate about Low-Level Programming, Networking, and Cybersecurity. My background in Physics (from Aix-Marseille and Paris-Saclay University) gives me a unique, analytical approach to solving complex computing problems.
+I am a Second-year Computer Engineering Student at UMMTO, passionate about Low-Level Programming, Python, Networking, and Cybersecurity. My background in Physics (from Aix-Marseille and Paris-Saclay University) gives me a unique, analytical approach to solving complex computing problems.
 
 ## 🚀 What I'm Working On This Summer (2026)
 * 🧠 **Advanced C:** Developing `C-ADS` (Custom implementations of Linked Lists, Stacks, Queues, and dynamic memory allocation from scratch).
-* 🐍 **Python Automation:** Scripting network tools following my training with **CSE ESI** and **Cisco**.
+* 🐍 **Python :** Scripting network tools following my training with **CSE ESI** and **Cisco**.
 * 🌐 **Networking:** Mastering infrastructure fundamentals via Cisco's *Networking Basics* pathway.
 
 ## 🎓 Certifications & Badges
@@ -27,9 +27,9 @@ I am a Second-year Computer Engineering Student at UMMTO, passionate about Low-L
   * **Skills:** Technical English, Information Security Policies, Software & Network Engineering Vocabulary, Professional Customer Support.
 
 ## 🧱 Projects
-* ![Project](https://img.shields.io/badge/Project-NetStruct--CLI-4B5563?style=for-the-badge&logo=gnubash&logoColor=white)
+* * ![Project](https://img.shields.io/badge/Project-NetStruct--CLI-4B5563?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
-
+  * **Skills :** Git, Github, modern software projects architecture.
 * ![Project](https://img.shields.io/badge/Project-C--ADS-4B5563?style=for-the-badge&logo=c&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=flat-square)
   
